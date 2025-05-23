@@ -1,1 +1,1 @@
-Shutdown your pc remotely via an SSH sever.
+-Remote power off switch for your pc via an SSH server.
